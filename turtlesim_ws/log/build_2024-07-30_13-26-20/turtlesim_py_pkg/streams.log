@@ -1,0 +1,20 @@
+[0.860s] Invoking command in '/home/ilknur/turtlesim_ws/build/turtlesim_py_pkg': PYTHONPATH=/home/ilknur/turtlesim_ws/build/turtlesim_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ilknur/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ilknur/turtlesim_ws/build/turtlesim_py_pkg/build --no-deps symlink_data --force
+[1.180s] running develop
+[1.181s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.181s]   warnings.warn(
+[1.426s] running egg_info
+[1.426s] writing turtlesim_py_pkg.egg-info/PKG-INFO
+[1.426s] writing dependency_links to turtlesim_py_pkg.egg-info/dependency_links.txt
+[1.426s] writing entry points to turtlesim_py_pkg.egg-info/entry_points.txt
+[1.427s] writing requirements to turtlesim_py_pkg.egg-info/requires.txt
+[1.427s] writing top-level names to turtlesim_py_pkg.egg-info/top_level.txt
+[1.429s] reading manifest file 'turtlesim_py_pkg.egg-info/SOURCES.txt'
+[1.430s] writing manifest file 'turtlesim_py_pkg.egg-info/SOURCES.txt'
+[1.431s] running build_ext
+[1.432s] Creating /home/ilknur/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages/turtlesim-py-pkg.egg-link (link to .)
+[1.433s] 
+[1.433s] Installed /home/ilknur/turtlesim_ws/build/turtlesim_py_pkg
+[1.433s] running symlink_data
+[1.433s] symbolically linking /home/ilknur/turtlesim_ws/build/turtlesim_py_pkg/resource/turtlesim_py_pkg -> /home/ilknur/turtlesim_ws/install/turtlesim_py_pkg/share/ament_index/resource_index/packages
+[1.434s] symbolically linking /home/ilknur/turtlesim_ws/build/turtlesim_py_pkg/package.xml -> /home/ilknur/turtlesim_ws/install/turtlesim_py_pkg/share/turtlesim_py_pkg
+[1.471s] Invoked command in '/home/ilknur/turtlesim_ws/build/turtlesim_py_pkg' returned '0': PYTHONPATH=/home/ilknur/turtlesim_ws/build/turtlesim_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ilknur/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ilknur/turtlesim_ws/build/turtlesim_py_pkg/build --no-deps symlink_data --force

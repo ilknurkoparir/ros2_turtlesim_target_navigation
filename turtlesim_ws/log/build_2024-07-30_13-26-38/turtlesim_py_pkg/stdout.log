@@ -1,0 +1,26 @@
+running develop
+Removing /home/ilknur/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages/turtlesim-py-pkg.egg-link (link to .)
+running egg_info
+writing ../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/requires.txt
+writing top-level names to ../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/top_level.txt
+reading manifest file '../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+creating /home/ilknur/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages/turtlesim_py_pkg
+copying /home/ilknur/turtlesim_ws/build/turtlesim_py_pkg/build/lib/turtlesim_py_pkg/__init__.py -> /home/ilknur/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages/turtlesim_py_pkg
+copying /home/ilknur/turtlesim_ws/build/turtlesim_py_pkg/build/lib/turtlesim_py_pkg/vel_controller.py -> /home/ilknur/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages/turtlesim_py_pkg
+byte-compiling /home/ilknur/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages/turtlesim_py_pkg/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/ilknur/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages/turtlesim_py_pkg/vel_controller.py to vel_controller.cpython-310.pyc
+running install_data
+copying resource/turtlesim_py_pkg -> /home/ilknur/turtlesim_ws/install/turtlesim_py_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /home/ilknur/turtlesim_ws/install/turtlesim_py_pkg/share/turtlesim_py_pkg
+running install_egg_info
+Copying ../../build/turtlesim_py_pkg/turtlesim_py_pkg.egg-info to /home/ilknur/turtlesim_ws/install/turtlesim_py_pkg/lib/python3.10/site-packages/turtlesim_py_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/ilknur/turtlesim_ws/build/turtlesim_py_pkg/install.log'
